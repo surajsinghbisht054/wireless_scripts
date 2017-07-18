@@ -22,6 +22,13 @@ __author__='''
 These scripts are the examples of bitforestinfo webscraping tutorials
 
 
+1. WLAN SSID Sniffer Using Python And Socket (ap_socket.py)
+2. WLAN Access Point And Client Sniffer Using Python and Scapy (captureclients.py)
+3. WLAN Dos Detector Using Python and Scapy (deauthentication_detector.py)
+4. WLAN SSID Sniffer Using Python And Scapy (getwifiinfo.py)
+5. WLAN Dos Attacker Using Python And Scapy - Wifi Jammer (wifijammer.py)
+6. WLAN Live Beacon Packet Analyser Using Python And PyShark (LiveBeacon.py)
+7. WLAN Wireless Deauth Packet Creater and Sender Using python And Scapy (Wirelessdeauth.py)
 
 
 
