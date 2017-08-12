@@ -37,18 +37,18 @@ class HandleClients:
 		self.lastpacket = None
 
 	def save(self, data):
-	'''
-	Save Data In Records If its Not Already Exist.
-	'''
+		'''
+		Save Data In Records If its Not Already Exist.
+		'''
 
 		if data not in self.records:
 			self.records.append(data)
 			self.lastpacket = data
 			return self.lastpackets()
 	def getall(self):
-	'''
-	Return All Saved Records
-	'''
+		'''
+		Return All Saved Records
+		'''
 
 		self.records.remove(None)
 		return self.records
