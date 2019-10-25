@@ -1,22 +1,19 @@
-# wireless_scripts
-## Python Wireless Scripts
+### Python Wireless Scripts 
 
-### This Script is Created For Practise And Educational Purpose Only
+### Author
 
-__author__='''
+<div style="box-shadow: 0 5px 18px rgba(0, 0, 0, 0.6);">
 
-######################################################
-                By S.S.B Group                          
-######################################################
+<a href="https://surajsinghbisht054.blogspot.com" target="_blank"> 
 
-    Suraj Singh
-    Admin
-    S.S.B Group
-    surajsinghbisht054@gmail.com
-    https://bitforestinfo.blogspot.in/
+![author_profile](https://1.bp.blogspot.com/-PX4oBdjyb14/XbOCqgWpATI/AAAAAAAAELo/-jSsyNSMHmkXGXtw9qCT68qiUNqDE2NcACNcBGAsYHQ/s400/logo.png)
 
-    Note: We Feel Proud To Be Indian
-######################################################
+</a>
+
+<p> Author : surajsinghbisht054@gmail.com </p>
+
+</div>
+
 
 # About This Script Collection
 These scripts are the examples of bitforestinfo webscraping tutorials
